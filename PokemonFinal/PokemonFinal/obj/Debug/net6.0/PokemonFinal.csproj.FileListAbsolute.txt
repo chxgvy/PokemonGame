@@ -1,0 +1,15 @@
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/bin/Debug/net6.0/PokemonFinal
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/bin/Debug/net6.0/PokemonFinal.deps.json
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/bin/Debug/net6.0/PokemonFinal.runtimeconfig.json
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/bin/Debug/net6.0/PokemonFinal.dll
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/bin/Debug/net6.0/PokemonFinal.pdb
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.csproj.AssemblyReference.cache
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.AssemblyInfoInputs.cache
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.AssemblyInfo.cs
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.csproj.CoreCompileInputs.cache
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.dll
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/refint/PokemonFinal.dll
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.pdb
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/PokemonFinal.genruntimeconfig.cache
+/Users/charlizegevrey/Desktop/PokemonFinal/PokemonFinal/obj/Debug/net6.0/ref/PokemonFinal.dll
